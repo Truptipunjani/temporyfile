@@ -1,2 +1,3 @@
 let a=2
-console.Log("a") 
+let b=2
+console.Log("a+b") 
