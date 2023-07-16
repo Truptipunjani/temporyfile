@@ -1,1 +1,1 @@
-# temporyfile
+# temporaryfile
